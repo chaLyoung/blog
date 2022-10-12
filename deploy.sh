@@ -20,7 +20,7 @@ git commit -m "$msg"
 
 echo -e "\033[0;32mPush to chaLyoung.github.io...\033[0m"
 # Push source and build repos.
-git push origin master
+git push origin main
 
 # Come Back up to the Project Root
 cd ..
