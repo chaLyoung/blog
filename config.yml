@@ -13,7 +13,7 @@ menu:
           url: /posts/
           weight: 10
         - identifier: tags
-          name: Pags
+          name: Tags
           url: /tags/
           weight: 20
         - identifier: github
