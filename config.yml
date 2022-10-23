@@ -8,9 +8,9 @@ params:
         disableFingerprinting: true
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: posts
+          name: posts
+          url: /posts/
           weight: 10
         - identifier: tags
           name: tags
