@@ -8,7 +8,7 @@ params:
         disableFingerprinting: true
     profileMode:
         enabled: true
-        imageUrl: "/" # optional
+        imageUrl: "https://avatars.githubusercontent.com/u/97446272?s=400&u=9a604294f83e5a310f3bfac0b048dc50c30eb48c&v=4" # optional
         imageWidth: 120
         imageHeight: 120
 menu:
