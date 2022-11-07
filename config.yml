@@ -6,6 +6,11 @@ theme: "PaperMod"
 params:
     assets:
         disableFingerprinting: true
+    profileMode:
+        enabled: true
+        imageUrl: "/" # optional
+        imageWidth: 120
+        imageHeight: 120
 menu:
     main:
         - identifier: posts
